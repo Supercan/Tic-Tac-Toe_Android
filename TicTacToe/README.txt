@@ -1,11 +1,4 @@
 
-|---------------------------------------------------------------|
-| Graphical User Interface Coursework 2							|
-| by Taiwo Kareem (200858384) and Pam Iwalewa (200826485)		|
-----------------------------------------------------------------|
-
-
-
 This file should explain briefly what your app does and identify the features of the Android framework that
 you have used to build it.
 In addition, you should also include screenshots showing the layout of widgets for each activity. Assuming
